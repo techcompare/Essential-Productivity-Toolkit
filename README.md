@@ -38,7 +38,7 @@ Tools and systems to plan better and stay organized.
 - [Week Plan](https://weekplan.net) - Weekly planner based on the 7 Habits of Highly Effective People.
 - [Things 3](https://culturedcode.com/things) - Award-winning personal task manager for Apple devices.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - Powerful task management system for GTD practitioners.
-- [Habitica](https://habitica.com) - Gamify your task list by turning to-dos into an RPG game.
+- [Workflowy](https://workflowy.com) - Simple outlining tool for organizing thoughts and tasks.
 
 ## Focus & Deep Work
 
@@ -132,11 +132,11 @@ Productivity resources for professional life.
 - [Google Meet](https://meet.google.com) - Video conferencing tool integrated with Google Workspace.
 - [Doodle](https://doodle.com) - Scheduling tool for finding the best time for group meetings.
 - [Canva](https://www.canva.com) - Graphic design platform for creating professional visuals.
-- [Notion](https://www.notion.so) - All-in-one workspace for team collaboration and documentation.
 - [Basecamp](https://basecamp.com) - Project management and team communication tool.
 - [Wrike](https://www.wrike.com) - Work management platform with Gantt charts and resource planning.
 - [Jira](https://www.atlassian.com/software/jira) - Project tracking tool for agile teams and software development.
-- [Airtable](https://airtable.com) - Collaborative database tool for organizing work projects.
+- [Discord](https://discord.com) - Communication platform for communities and teams.
+- [Confluence](https://www.atlassian.com/software/confluence) - Team workspace for documentation and knowledge sharing.
 - [DocSend](https://www.docsend.com) - Secure document sharing with real-time analytics.
 
 ## Wellbeing & Balance

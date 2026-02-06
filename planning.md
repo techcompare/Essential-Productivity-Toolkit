@@ -22,4 +22,4 @@ It includes frameworks, methods, and tools that make planning simple, intentiona
 - [Week Plan](https://weekplan.net) - Weekly planner based on the 7 Habits of Highly Effective People.
 - [Things 3](https://culturedcode.com/things) - Award-winning personal task manager for Apple devices.
 - [OmniFocus](https://www.omnigroup.com/omnifocus) - Powerful task management system for GTD practitioners.
-- [Habitica](https://habitica.com) - Gamify your task list by turning to-dos into an RPG game.
+- [Workflowy](https://workflowy.com) - Simple outlining tool for organizing thoughts and tasks.
