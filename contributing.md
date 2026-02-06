@@ -1,39 +1,27 @@
-# Contributing Guide
+# Contribution Guidelines
 
-Thanks for taking the time to contribute to **Essential Productivity Toolkit** 🙌  
-This repository is a curated list of high-quality productivity resources for students, professionals, and lifelong learners.
-
----
-
-## 📌 What You Can Contribute
-
-You can add:
-- Productivity tools & apps
-- Learning resources (articles, videos, courses)
-- Planning & organization methods
-- Focus & deep work techniques
-- Work, career, and study resources
-- Wellbeing & sustainable productivity content
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/sindresorhus/.github/blob/main/code-of-conduct.md). By participating in this project you agree to abide by its terms.
 
 ---
 
-## ✅ Contribution Rules
+## Adding to this list
 
-Please make sure your contribution follows these rules:
+Please ensure your pull request adheres to the following guidelines:
 
-- Content must be **useful and high quality**
-- No spam, affiliate links, or excessive self-promotion
-- Prefer **free or freemium** resources
-- Paid resources are allowed only if they provide strong value
-- One resource per list item
-- Add a **short, clear description** (1 line)
+- Search previous suggestions before making a new one, as yours may be a duplicate.
+- Make an individual pull request for each suggestion.
+- Use the following format: `- [Name](link) - Description.`
+- Additions should be added to the bottom of the relevant category.
+- New categories or improvements to the existing categorization are welcome.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital and end with a full stop/period.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request should have a useful title and include a link to the resource and why it should be included.
 
----
+Thank you for your suggestions!
 
-## 🧱 Formatting Guidelines
+## Updating your PR
 
-Use this format:
-
-```md
-- [Resource Name](https://example.com) — short description of what it does
+A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
 
