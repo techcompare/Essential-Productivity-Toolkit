@@ -13,3 +13,13 @@ The goal is to support deep work, better attention management, and consistent fo
 - [Toggl Track](https://toggl.com/track) - Simple time tracking tool to understand where your time goes.
 - [RescueTime](https://www.rescuetime.com) - Automatic time tracking and productivity insights.
 - [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html) - Pomodoro timer with task management integration.
+- [Focus@Will](https://www.focusatwill.com) - Neuroscience-based music service to improve concentration.
+- [Noisli](https://www.noisli.com) - Background sounds and color generator to boost productivity.
+- [Sessions](https://www.sessions.app) - Pomodoro timer with powerful analytics and scheduling features.
+- [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd) - Chrome extension to limit time spent on time-wasting websites.
+- [Centered](https://www.centered.app) - Flow state app combining music, coaching, and task management.
+- [Serene](https://sereneapp.com) - macOS app for blocking distractions and focusing on one goal.
+- [Focus Booster](https://www.focusboosterapp.com) - Simple Pomodoro timer with time tracking and reporting.
+- [TickTick](https://ticktick.com) - Task manager with built-in Pomodoro timer and focus features.
+- [SelfControl](https://selfcontrolapp.com) - Free Mac app to block distracting websites for a set period.
+- [LeechBlock](https://www.proginosko.com/leechblock) - Browser extension for blocking time-wasting sites.

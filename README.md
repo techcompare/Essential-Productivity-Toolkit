@@ -29,6 +29,16 @@ Tools and systems to plan better and stay organized.
 - [Timeblocking](https://todoist.com/productivity-methods/time-blocking) - Schedule technique that dedicates specific time blocks to tasks.
 - [Airtable](https://airtable.com) - Spreadsheet-database hybrid for organizing anything.
 - [ClickUp](https://clickup.com) - Project management platform with docs, goals, and time tracking.
+- [Microsoft To Do](https://todo.microsoft.com) - Simple task management app with intelligent suggestions and daily planner.
+- [Google Calendar](https://calendar.google.com) - Time management and scheduling tool with smart event creation.
+- [Any.do](https://www.any.do) - Task manager with calendar integration and smart reminders.
+- [Bear](https://bear.app) - Beautiful, flexible writing app for notes and prose on Apple devices.
+- [Roam Research](https://roamresearch.com) - Note-taking tool for networked thought and knowledge management.
+- [Evernote](https://evernote.com) - Note-taking app with powerful search and organization features.
+- [Week Plan](https://weekplan.net) - Weekly planner based on the 7 Habits of Highly Effective People.
+- [Things 3](https://culturedcode.com/things) - Award-winning personal task manager for Apple devices.
+- [OmniFocus](https://www.omnigroup.com/omnifocus) - Powerful task management system for GTD practitioners.
+- [Workflowy](https://workflowy.com) - Simple outlining tool for organizing thoughts and tasks.
 
 ## Focus & Deep Work
 
@@ -43,6 +53,16 @@ Resources to reduce distractions and improve concentration.
 - [Toggl Track](https://toggl.com/track) - Simple time tracking tool to understand where your time goes.
 - [RescueTime](https://www.rescuetime.com) - Automatic time tracking and productivity insights.
 - [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html) - Pomodoro timer with task management integration.
+- [Focus@Will](https://www.focusatwill.com) - Neuroscience-based music service to improve concentration.
+- [Noisli](https://www.noisli.com) - Background sounds and color generator to boost productivity.
+- [Sessions](https://www.sessions.app) - Pomodoro timer with powerful analytics and scheduling features.
+- [StayFocusd](https://chrome.google.com/webstore/detail/stayfocusd) - Chrome extension to limit time spent on time-wasting websites.
+- [Centered](https://www.centered.app) - Flow state app combining music, coaching, and task management.
+- [Serene](https://sereneapp.com) - macOS app for blocking distractions and focusing on one goal.
+- [Focus Booster](https://www.focusboosterapp.com) - Simple Pomodoro timer with time tracking and reporting.
+- [TickTick](https://ticktick.com) - Task manager with built-in Pomodoro timer and focus features.
+- [SelfControl](https://selfcontrolapp.com) - Free Mac app to block distracting websites for a set period.
+- [LeechBlock](https://www.proginosko.com/leechblock) - Browser extension for blocking time-wasting sites.
 
 ## Tools & Apps
 
@@ -58,6 +78,16 @@ Practical tools that support everyday productivity.
 - [Pocket](https://getpocket.com) - Save articles and videos to read or watch later.
 - [Grammarly](https://www.grammarly.com) - Writing assistant for grammar, spelling, and clarity.
 - [TextExpander](https://textexpander.com) - Snippet expansion tool to automate repetitive typing.
+- [Pushbullet](https://www.pushbullet.com) - Connect your devices with push notifications and file sharing.
+- [Dropbox](https://www.dropbox.com) - Cloud storage and file synchronization service.
+- [Google Drive](https://drive.google.com) - Cloud storage with integrated document editing and collaboration.
+- [LastPass](https://www.lastpass.com) - Password manager with secure vault and auto-fill features.
+- [Bitwarden](https://bitwarden.com) - Open-source password manager with cross-platform support.
+- [CleanMyMac](https://macpaw.com/cleanmymac) - System optimization tool for macOS maintenance.
+- [Hazel](https://www.noodlesoft.com) - Automated organization for your Mac files and folders.
+- [Keyboard Maestro](https://www.keyboardmaestro.com) - Powerful macOS automation and macro tool.
+- [Krisp](https://krisp.ai) - AI-powered noise cancellation for calls and recordings.
+- [Authy](https://authy.com) - Two-factor authentication app with cloud backup.
 
 ## Learning & Personal Growth
 
@@ -73,6 +103,16 @@ Resources for continuous improvement and skill building.
 - [Skillshare](https://www.skillshare.com) - Online learning community for creative and practical skills.
 - [Udemy](https://www.udemy.com) - Marketplace for learning and teaching online courses.
 - [Habitica](https://habitica.com) - Gamify your life by turning tasks and habits into an RPG.
+- [Duolingo](https://www.duolingo.com) - Free language learning platform with gamified lessons.
+- [Memrise](https://www.memrise.com) - Language learning app using spaced repetition and mnemonics.
+- [Brilliant](https://brilliant.org) - Learn STEM subjects through interactive problem-solving.
+- [MasterClass](https://www.masterclass.com) - Online classes taught by world-renowned experts.
+- [Audible](https://www.audible.com) - Audiobooks and podcasts for learning on the go.
+- [Pluralsight](https://www.pluralsight.com) - Technology skills platform for developers and IT professionals.
+- [DataCamp](https://www.datacamp.com) - Learn data science and analytics through interactive courses.
+- [FreeCodeCamp](https://www.freecodecamp.org) - Free coding education with certifications and projects.
+- [Quizlet](https://quizlet.com) - Study tools including flashcards and practice tests.
+- [Scribd](https://www.scribd.com) - Digital library with unlimited access to books and audiobooks.
 
 ## Work & Career
 
@@ -88,6 +128,16 @@ Productivity resources for professional life.
 - [Figma](https://www.figma.com) - Collaborative design tool for interface and prototyping.
 - [Asana](https://asana.com) - Work management platform for teams to organize and track projects.
 - [Monday.com](https://monday.com) - Work operating system for managing workflows and projects.
+- [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams) - Collaboration platform with chat, meetings, and file sharing.
+- [Google Meet](https://meet.google.com) - Video conferencing tool integrated with Google Workspace.
+- [Doodle](https://doodle.com) - Scheduling tool for finding the best time for group meetings.
+- [Canva](https://www.canva.com) - Graphic design platform for creating professional visuals.
+- [Basecamp](https://basecamp.com) - Project management and team communication tool.
+- [Wrike](https://www.wrike.com) - Work management platform with Gantt charts and resource planning.
+- [Jira](https://www.atlassian.com/software/jira) - Project tracking tool for agile teams and software development.
+- [Discord](https://discord.com) - Communication platform for communities and teams.
+- [Confluence](https://www.atlassian.com/software/confluence) - Team workspace for documentation and knowledge sharing.
+- [DocSend](https://www.docsend.com) - Secure document sharing with real-time analytics.
 
 ## Wellbeing & Balance
 
@@ -103,6 +153,16 @@ Sustainable productivity without burnout.
 - [Atomic Habits by James Clear](https://jamesclear.com/atomic-habits) - Guide to building good habits and breaking bad ones.
 - [f.lux](https://justgetflux.com) - Adjusts screen color temperature to reduce eye strain.
 - [Stand Up! The Work Break Timer](https://apps.apple.com/us/app/stand-up-the-work-break-timer/id828244687) - Reminds you to take regular breaks while working.
+- [Ten Percent Happier](https://www.tenpercent.com) - Meditation app with practical mindfulness techniques.
+- [Balance](https://www.balanceapp.com) - Personalized meditation program that adapts to your needs.
+- [MyFitnessPal](https://www.myfitnesspal.com) - Nutrition and fitness tracker for healthy lifestyle habits.
+- [Fabulous](https://www.thefabulous.co) - Science-based app for building healthy routines and habits.
+- [Daylio](https://daylio.net) - Micro-diary and mood tracker without writing.
+- [Sleep Cycle](https://www.sleepcycle.com) - Smart alarm clock that analyzes sleep patterns.
+- [Reflectly](https://reflectly.app) - AI-powered journal for mental wellbeing and self-reflection.
+- [Timeular](https://timeular.com) - Physical time tracking device for better work-life balance.
+- [WaterMinder](https://waterminder.com) - Track daily water intake for better hydration.
+- [Stretchly](https://hovancik.net/stretchly) - Free break reminder app for eye and posture care.
 
 ## Contributing
 
