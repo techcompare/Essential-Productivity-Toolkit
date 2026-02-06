@@ -11,7 +11,6 @@ Creative productivity involves capturing ideas, exploring new perspectives, and 
 - [Sketch](https://www.sketch.com) - Vector graphics editor for UI/UX design on macOS.
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html) - Suite of creative apps including Photoshop, Illustrator, and Premiere Pro.
 - [Canva](https://www.canva.com) - Graphic design platform for creating professional visuals without design skills.
-- [Figma](https://www.figma.com) - Collaborative design tool for interface and prototyping.
 - [Procreate](https://procreate.art) - Digital painting and illustration app for iPad with powerful brush engine.
 - [Affinity Designer](https://affinity.serif.com/designer) - Professional vector graphics software with one-time purchase.
 - [Affinity Photo](https://affinity.serif.com/photo) - Professional photo editing software alternative to Photoshop.
