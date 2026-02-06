@@ -1,5 +1,6 @@
 
-# Awesome Productivity Toolkit [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Essential-Productivity-Toolkit
+
 
 > A curated collection of essential tools, resources, and systems to improve focus, organization, and everyday productivity.
 
